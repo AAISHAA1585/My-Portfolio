@@ -1,4 +1,4 @@
-+
+
 /* 🌟 Home Page Styles */
 /* 🎨 Global Reset */
 * {
@@ -68,9 +68,7 @@ section {
     justify-content: space-between;
     align-items: center;
     max-width: 1100px;
-    
     width: 100%;
-    
 }
 
 /* ✍ Hero Content (Text on Left) */
@@ -844,7 +842,7 @@ tr:hover {
     .contact-form, .contact-info {
         width: 100%;
     }
-
+}
 
 
 
@@ -896,5 +894,3 @@ tr:hover {
 .cta-button:hover {
     background: #e68900;
 }
-
-

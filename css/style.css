@@ -1,4 +1,4 @@
-
++
 /* 🌟 Home Page Styles */
 /* 🎨 Global Reset */
 * {
@@ -68,9 +68,9 @@ section {
     justify-content: space-between;
     align-items: center;
     max-width: 1100px;
-    max-width: 90%;
+    
     width: 100%;
-    margin: auto;
+    
 }
 
 /* ✍ Hero Content (Text on Left) */
@@ -897,23 +897,4 @@ tr:hover {
     background: #e68900;
 }
 
-@media (max-width: 768px) {  
-  .container {
-    width: 100%;  /* ✅ Ensures proper scaling on smaller screens */
-    padding: 10px;
-  }
-
-  .profile-image {
-    width: 100px;  /* ✅ Smaller profile image for mobile */
-    height: 100px;
-  }
-
-  .text-content {
-    text-align: center; /* ✅ Centers text on mobile */
-  }
-
-  .recognizing-excellence {
-    font-size: 14px;  /* ✅ Smaller text for mobile readability */
-  }
-}
 
